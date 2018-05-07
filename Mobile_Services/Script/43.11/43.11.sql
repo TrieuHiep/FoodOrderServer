@@ -1,0 +1,11 @@
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/burger/bigstar.png' WHERE `ID`='1';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/burger/gacay.png' WHERE `ID`='2';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/burger/tom.png' WHERE `ID`='3';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/burger/bulgogi.png' WHERE `ID`='4';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/burger/phomai.png' WHERE `ID`='5';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/chicken/ga_sot_pho_mai.png' WHERE `ID`='6';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/chicken/garan.png' WHERE `ID`='7';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/chicken/gasotdau.png' WHERE `ID`='8';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/rice/comsotcay.png' WHERE `ID`='9';
+UPDATE `fooddb`.`Food` SET `ImageURL`='http://192.168.43.11:8080/images/rice/comphomai.png' WHERE `ID`='10';
+SELECT * FROM `fooddb`.`Food`;
